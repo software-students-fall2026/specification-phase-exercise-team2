@@ -111,16 +111,16 @@ extend that same guarantee to manually added elements.
    b. Translate educational materials to accommodate different types of students
    c. Streamline slide creation through voice input without manual typing or tedious formatting
    d. Quickly access relevant scientific visuals, diagrams, and external reference data\
-2. **Problems & Frustrations (Before Testing):**
+3. **Problems & Frustrations (Before Testing):**
    a. Manual slide preparation and layout design take time away from teaching and research
    b. Existing presentation software lacks real-time voice integration
    c. Sourcing and embedding relevant biological graphics is slow and clunky\
-3. **Goals & Needs (After Testing, Relating to App):**
+5. **Goals & Needs (After Testing, Relating to App):**
    a. Voice integration ("speak to talk") worked well and allowed the presenter to create content efficiently
    b. Successfully translated slide content
    c. Quickly generated accurate summaries for each slide
    d. Experienced fast overall processing and generation time\
-4. **Problems & Frustrations (After Testing, Relating to App):**
+7. **Problems & Frustrations (After Testing, Relating to App):**
    a. Lacks a real-time visual indicator showing how speech is being processed, creating uncertainty about when to start or stop talking and when a new slide is being created
    b. Unable to generate novel information or perform web lookups; when the presenter asked a question, the app placed the question directly onto the slide instead of generating an answer
 
