@@ -151,13 +151,13 @@ Our proposal adds manual content controls to The Slide Machine’s whiteboard ta
 ## User Requirements
 
 Student:
-"As a student, I want my professors' anecdotes to appear on lecture notes so that I can have an easier time studying."
-"As a student, I want to be able to tell which parts of my lecture notes came from my professor's main lecture and which came from an anecdote so that I know what information is most important."
-"As a student, I want to see corrections my professor made during a lecture reflected in the lecture notes so that I do not study incorrect information."
-"As a student, I want to receive a notification when my professor corrects something from the lecture so that I know to pay attention to the updated information."
-"As a student, I want to review the anecdotes and examples from a lecture separately from the main lecture notes so that I can use them as additional study material."
-"As a student, I want to search my lecture notes for specific words or topics so that I can quickly find the information I need when studying."
-"As a student, I want to mark important parts of my lecture notes so that I can easily return to them when preparing for an exam."
+1. "As a student, I want my professors' anecdotes to appear on lecture notes so that I can have an easier time studying."
+2. "As a student, I want to be able to tell which parts of my lecture notes came from my professor's main lecture and which came from an anecdote so that I know what information is most important."
+3. "As a student, I want to see corrections my professor made during a lecture reflected in the lecture notes so that I do not study incorrect information."
+4. "As a student, I want to receive a notification when my professor corrects something from the lecture so that I know to pay attention to the updated information."
+5. "As a student, I want to review the anecdotes and examples from a lecture separately from the main lecture notes so that I can use them as additional study material."
+6. "As a student, I want to search my lecture notes for specific words or topics so that I can quickly find the information I need when studying."
+7. "As a student, I want to mark important parts of my lecture notes so that I can easily return to them when preparing for an exam."
 "As a student, I want to receive practice questions based on both the main lecture and my professor's anecdotes so that I can test whether I understand the material."
 "As a student, I want to see which lecture or section a practice question came from so that I can review that material when I get an answer wrong."
 "As a student, I want to report an incorrect or confusing lecture note so that the information can be corrected before I use it to study."
