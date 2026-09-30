@@ -211,6 +211,9 @@ As an employee, I want to mark an uploaded image as company confidential, so itâ
 
 <img width="899" height="1046" alt="Employee (Confidentiality Marking) drawio" src="https://github.com/user-attachments/assets/86587ac8-7530-47be-a05a-92559271a7f4" />
 
+<img width="2344" height="3282" alt="Blank diagram_page-0001" src="https://github.com/user-attachments/assets/0dd58bc0-f6ea-4900-bcfa-d71e086ccbc7" />
+
+
 ## Wireframes
 
 <img width="362" height="191" alt="Screenshot 2026-09-30 at 12 15 21â€¯PM" src="https://github.com/user-attachments/assets/c249b67b-9c66-49f2-b8db-6819c70bbcb4" />\
