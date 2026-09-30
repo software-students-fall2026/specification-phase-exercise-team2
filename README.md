@@ -165,7 +165,7 @@ Student:
 
 
 Instructor:
-1. "As an instructor, I want a spoken correction like “actually, scratch that” to replace the wrong text on the current slide instead of adding more text below it, so I don’t end up with a slide that contradicts itself."
+1. "As an instructor, I want a spoken correction like 'actually, scratch that' to replace the wrong text on the current slide instead of adding more text below it, so I don’t end up with a slide that contradicts itself."
 2. "As an instructor, I want to mark something I’m saying as a note to myself, not lecture content, so it never becomes a slide bullet or a quiz question."
 3. "As an instructor, I want to see which parts of a generated slide came from a correction versus my original wording so I can tell whether the system caught my correction the way I meant it."
 4. "As an instructor, I want to undo an automatic correction the system made so I can restore the original wording if it misunderstood me."
@@ -175,8 +175,8 @@ Instructor:
 8. "As an instructor, I want to see and remove any quiz question generated from an aside or a comment I made to the tool rather than the class, before I publish the quiz to students."
 9. "As an instructor, I want the system to keep capturing my lecture in plain append-only mode if correction detection fails or times out, so a lecture in progress never has to stop."
 10. "As an instructor, I want to see a short list of the corrections I made during a lecture after it ends, so I can decide whether any of them need a more careful manual edit."
-11. Instructor Image Upload UML: "As an instructor, I want to upload an image from my own device into the whiteboard tab, so I can put a diagram or photo I already have directly onto a slide."
-12. Instructor Text Insert UML: "As an instructor, I want to type my own text box onto a slide in the whiteboard tab, so I can add a label, caption, or note the system didn’t generate."
+11. "As an instructor, I want to upload an image from my own device into the whiteboard tab, so I can put a diagram or photo I already have directly onto a slide."
+12. "As an instructor, I want to type my own text box onto a slide in the whiteboard tab, so I can add a label, caption, or note the system didn’t generate."
 
 Employee:
 1. "As an employee, I want to seed a project with my team’s internal terminology and project names before a demo, so the generated slides use vocabulary my teammates actually recognize instead of generic phrasing."
@@ -189,8 +189,8 @@ Employee:
 8. "As an employee, I want to set an expiration or review date on a deck that contains confidential project details, so sensitive material doesn’t sit around indefinitely after the project it covers has shipped or been cancelled."
 9. "As an employee, I want to restrict who at my company can edit a deck I’ve shared internally, so a teammate can view it without being able to change what I actually presented."
 10. "As an employee, I want to be notified if the AI service refuses or fails partway through my demo because it flagged something as sensitive, so I know to keep talking and patch the gap manually afterward instead of assuming the deck is complete."
-11. Employee Image Upload UML:  "As an employee, I want to upload a screenshot or diagram from my own work into the whiteboard tab, so I can show something the live-generated slide couldn’t capture, like an architecture diagram or a code snippet."
-12. Employee Confidentiality Marking UML :  "As an employee, I want to mark an uploaded image as company confidential, so it’s excluded if the deck is ever shared outside my organization."
+11. "As an employee, I want to upload a screenshot or diagram from my own work into the whiteboard tab, so I can show something the live-generated slide couldn’t capture, like an architecture diagram or a code snippet."
+12. "As an employee, I want to mark an uploaded image as company confidential, so it’s excluded if the deck is ever shared outside my organization."
 
 
 ## Activity Diagrams
