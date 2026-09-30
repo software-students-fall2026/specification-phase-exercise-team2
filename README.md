@@ -106,41 +106,48 @@ extend that same guarantee to manually added elements.
 ### Instructors:
 
 **R.L (Tutor)**
-1. **Goals & Needs (Before Testing):**
-   a. Efficiently create and summarize slide decks for biology lectures and lab sections
-   b. Translate educational materials to accommodate different types of students
-   c. Streamline slide creation through voice input without manual typing or tedious formatting
-   d. Quickly access relevant scientific visuals, diagrams, and external reference data\
-3. **Problems & Frustrations (Before Testing):**
-   a. Manual slide preparation and layout design take time away from teaching and research
-   b. Existing presentation software lacks real-time voice integration
-   c. Sourcing and embedding relevant biological graphics is slow and clunky\
-5. **Goals & Needs (After Testing, Relating to App):**
-   a. Voice integration ("speak to talk") worked well and allowed the presenter to create content efficiently
-   b. Successfully translated slide content
-   c. Quickly generated accurate summaries for each slide
-   d. Experienced fast overall processing and generation time\
-7. **Problems & Frustrations (After Testing, Relating to App):**
-   a. Lacks a real-time visual indicator showing how speech is being processed, creating uncertainty about when to start or stop talking and when a new slide is being created
-   b. Unable to generate novel information or perform web lookups; when the presenter asked a question, the app placed the question directly onto the slide instead of generating an answer
+1. **Goals & Needs (Before Testing):**  
+   a. Efficiently create and summarize slide decks for biology lectures and lab sections  
+   b. Translate educational materials to accommodate different types of students  
+   c. Streamline slide creation through voice input without manual typing or tedious formatting  
+   d. Quickly access relevant scientific visuals, diagrams, and external reference data  
+
+2. **Problems & Frustrations (Before Testing):**  
+   a. Manual slide preparation and layout design take time away from teaching and research  
+   b. Existing presentation software lacks real-time voice integration  
+   c. Sourcing and embedding relevant biological graphics is slow and clunky  
+
+3. **Goals & Needs (After Testing, Relating to App):**  
+   a. Voice integration ("speak to talk") worked well and allowed the presenter to create content efficiently  
+   b. Successfully translated slide content  
+   c. Quickly generated accurate summaries for each slide  
+   d. Experienced fast overall processing and generation time  
+
+4. **Problems & Frustrations (After Testing, Relating to App):**  
+   a. Lacks a real-time visual indicator showing how speech is being processed, creating uncertainty about when to start or stop talking and when a new slide is being created  
+   b. Unable to generate novel information or perform web lookups; when the presenter asked a question, the app placed the question directly onto the slide instead of generating an answer  
+
 
 **K (Professor)**
-1. **Goals & Needs (Before Testing):**
-   a. Speed up lecture content creation while retaining quality and important information
-   b. Easily update or correct lecture content without needing follow-up emails or verbal corrections after class
-   c. Maintain universal lecture formatting to help students stay on track and become familiar with the material
-   d. Have the flexibility to sidetrack efficiently during lectures without being restricted by lesson plans or timing\
-2. **Problems & Frustrations (Before Testing):**
-   a. Time is wasted focusing on small lecture details and worrying about whether the material is digestible for students
-   b. Unfamiliar applications often do not feel beginner-friendly for less tech-savvy users, discouraging adoption of new teaching methods
-   c. Lectures are not heavily focused on slide text, creating a need for a more streamlined way to organize material for students’ future studying
-   d. Technical difficulties can disrupt the flow of class and negatively affect student attention\
-3. **Goals & Needs (After Testing, Relating to App):**
-   a. Website layout was simple to use, allowing the presenter to quickly adapt to the workflow
-   b. Successfully retained important vocabulary and key points from the lecture
-   c. Maintained a steady pace when creating new slides\
-4. **Problems & Frustrations (After Testing, Relating to App):**
-   a. Uncertainty arose when the presenter paused; she was unsure whether the app would continue creating content without additional speech and sometimes waited to see what information the AI had captured
+1. **Goals & Needs (Before Testing):**  
+   a. Speed up lecture content creation while retaining quality and important information  
+   b. Easily update or correct lecture content without needing follow-up emails or verbal corrections after class  
+   c. Maintain universal lecture formatting to help students stay on track and become familiar with the material  
+   d. Have the flexibility to sidetrack efficiently during lectures without being restricted by lesson plans or timing  
+
+2. **Problems & Frustrations (Before Testing):**  
+   a. Time is wasted focusing on small lecture details and worrying about whether the material is digestible for students  
+   b. Unfamiliar applications often do not feel beginner-friendly for less tech-savvy users, discouraging adoption of new teaching methods  
+   c. Lectures are not heavily focused on slide text, creating a need for a more streamlined way to organize material for students’ future studying  
+   d. Technical difficulties can disrupt the flow of class and negatively affect student attention  
+
+3. **Goals & Needs (After Testing, Relating to App):**  
+   a. Website layout was simple to use, allowing the presenter to quickly adapt to the workflow  
+   b. Successfully retained important vocabulary and key points from the lecture  
+   c. Maintained a steady pace when creating new slides  
+
+4. **Problems & Frustrations (After Testing, Relating to App):**  
+   a. Uncertainty arose when the presenter paused; she was unsure whether the app would continue creating content without additional speech and sometimes waited to see what information the AI had captured  
    b. Some generated summaries were too simplistic and did not retain all of the intended takeaways from the topic
 
 ## Product Vision Statement
