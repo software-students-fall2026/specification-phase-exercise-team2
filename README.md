@@ -232,4 +232,4 @@ As an employee, I want to mark an uploaded image as company confidential, so it�
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSetrQYyU6cDJg3rkiXIxd5DWRLMBD6NO9OTRah3yCKWgk1IHg/viewform)
