@@ -228,8 +228,8 @@ As an employee, I want to mark an uploaded image as company confidential, so itâ
 
 ## Stakeholder Demo
 
-([Slide Machine]([https://theslidemachine.com/d/untitled-583e0c02](https://theslidemachine.com/d/untitled-2d88567c)))
-([Demo](https://github.com/user-attachments/assets/7838ff6d-a840-47f7-9753-951aaf7cb822))
+([Slide Machine](https://theslidemachine.com/d/untitled-583e0c02](https://theslidemachine.com/d/untitled-2d88567c))
+([Demo](https://drive.google.com/file/d/1Q8dm-KyXULLtXzMVLOHOdYsGou9wkyOM/view?usp=sharing))
 
 ## Exit Ticket
 
