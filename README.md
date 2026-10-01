@@ -224,11 +224,11 @@ As an employee, I want to mark an uploaded image as company confidential, so itâ
 
 ## Clickable Prototype
 
-https://www.figma.com/design/6GsMji6ODp9vGgwjKXzsph/Project-1---Slide-Machine-Feature?node-id=0-1&t=2sWlwygdTnV0sSS7-1
+([Figma](https://www.figma.com/design/6GsMji6ODp9vGgwjKXzsph/Project-1---Slide-Machine-Feature?node-id=0-1&t=2sWlwygdTnV0sSS7-1))
 
 ## Stakeholder Demo
 
-https://theslidemachine.com/d/untitled-583e0c02
+([Demo](https://theslidemachine.com/d/untitled-583e0c02))
 
 ## Exit Ticket
 
