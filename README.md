@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Sai Shettar ([saishettar](https://github.com/saishettar)), Elton Yu ([elbow74](https://github.com/elbow74)), Marco Gulino (MarcoHGulino), Sienna Maguire ([SiennaSSM](https://github.com/SiennaSSM))
+Sai Shettar ([saishettar](https://github.com/saishettar)), Elton Yu ([elbow74](https://github.com/elbow74)), Marco Gulino ([MarcoHGulino](https://github.com/MarcoHGulino)), Sienna Maguire ([SiennaSSM](https://github.com/SiennaSSM))
 
 
 ## Review of the Current Application
